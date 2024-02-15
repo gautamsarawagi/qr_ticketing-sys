@@ -1,6 +1,5 @@
 flask
 flask_qrcode
-werkzeug.security
 time
 hashlib
 qrcode
