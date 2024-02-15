@@ -1,8 +1,2 @@
 flask
 flask_qrcode
-time
-hashlib
-qrcode
-os
-pytest
-flask_mail
